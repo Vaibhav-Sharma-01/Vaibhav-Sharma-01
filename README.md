@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vaibhav Sharma
 - 👀 I’m interested in web developement, android developement, java apps, software apps for PC, etc...
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning React and MongoDB
 - 💞️ I’m looking to collaborate on any of my interested items
 - 📫 How to reach me? Find me on LinkedIn https://www.linkedin.com/in/vaibhav-sharma-3b0b90172
 
