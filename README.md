@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Vaibhav Sharma
-- 👀 I’m interested in web developement, android developement, java apps, software apps for PC, etc...
-- 🌱 I’m currently learning Kotlin.
-- 💞️ I’m looking to collaborate on any of my interested items
+- 👀 I’m interested in Full-stack web developement, android developement, etc...
 - 📫 How to reach me? Find me on LinkedIn https://www.linkedin.com/in/vaibhav-sharma-3b0b90172
 
 <!---
