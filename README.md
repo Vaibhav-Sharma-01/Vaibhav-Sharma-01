@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vaibhav Sharma
-- 👀 I’m interested in Full-stack web developement, android developement, etc...
+- 👀 I am a Java Full-stack developer (spring boot microservices, REST API's, Angular/React, SQL/NOSQL, NodeJs).
 - 📫 How to reach me? Find me on LinkedIn https://www.linkedin.com/in/vaibhav-sharma-3b0b90172
 
 <!---
